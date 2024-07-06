@@ -8,7 +8,7 @@
 </div>
 We are trying to address inequality in education based on income. This is the GDSC Solution Challenge 2024 project, which uses Flutter to implement an app that enables low-income children to also receive high-quality art education. <br>
 <br>
-Click here to watch the Demo video :
+Click here to watch the **Demo video** :
 <a href="https://youtu.be/VqojYN2tKqo?si=KvSIptzVVSistFGl">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge"/>
   </a> 	
@@ -34,7 +34,7 @@ Click here to watch the Demo video :
 
 ## 💻Technology Stack
 ✅ Front-End : Flutter
-
+✅ Design : Figma
 <br>
 
 ## ❓How To Use
