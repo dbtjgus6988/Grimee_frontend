@@ -34,7 +34,7 @@ Click here to watch the Demo video :
 
 ## 💻Technology Stack
 ✅ Design : Figma <br>
-✅ Front-End : Flutter
+✅ Front-End : Flutter, Dart
 <br>
 
 ## ❓How To Use
