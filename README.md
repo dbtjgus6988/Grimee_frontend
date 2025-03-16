@@ -48,7 +48,10 @@ git clone https://github.com/dbtjgus6988/Grimee_frontend.git <br>
 <br>
 
 ## 👩‍👩‍👧‍👦Team
-- 한지윤(Hanyang uni.)
-- 이차민(Hanyang uni.)
 - 남관현(Hanyang uni.)
 - 유서현(Hanyang uni.)
+- 이차민(Hanyang uni.)
+- 한지윤(Hanyang uni.)
+
+
+
